@@ -1,0 +1,48 @@
+.App {
+  font-family: "helvetica"
+}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 60px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.space {
+  margin-left: 3px;
+}
+
+.two {
+  margin-left: 5px;
+}
+
+.thankyou {
+  margin: auto;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.login {
+  margin-top: 200px;
+}
+
+.analysisRow1 {
+  margin-top: 40px;
+}
+
+.displayData {
+  text-align: center;
+}
